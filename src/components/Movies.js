@@ -29,7 +29,9 @@ const Movies = ({
         </div>
         <div className="movie-button">
           <a href={link} target="_blank">
+            <div className="button">
             <button>Watch Trailer</button>
+            </div>
           </a>
         </div>
       </div>
